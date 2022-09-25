@@ -2,6 +2,10 @@
 // Mat-Mats Logistik v. 1.3
 //================================================
 
+int number = 1;
+
+
+
 bool isRunning = true;
 
 while (isRunning)
