@@ -3,7 +3,10 @@
 //================================================
 
 int number = 1;
-
+if (number == 1)
+{
+    number++ +;
+}
 
 
 bool isRunning = true;
